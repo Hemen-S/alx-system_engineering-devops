@@ -1,2 +1,1 @@
-#!/bin/bash
- the command used to see the current directory we are in 
+the different type of scripts written in the tasks
