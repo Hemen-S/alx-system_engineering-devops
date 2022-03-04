@@ -1,3 +1,2 @@
 #!/bin/bash
 ls ./{., .., -x, -d, */, -a, [:digit:]*[:alnum:]}
- 
