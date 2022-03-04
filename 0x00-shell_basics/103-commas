@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m  . .. */ -alx [:digit:]*[:alpha:]
+ls -m  . .. */ -a [:digit:]*[:alpha:]
