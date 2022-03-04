@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference +rwx olleh betty
+chmod --reference +rwx betty olleh
