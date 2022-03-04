@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -R ./{., .., */, -alx, [:digit:]*[:alnum:]}
+ls  ., .., */, -alx, [:digit:]*[:alpha:]
