@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -m  . .. */ -a [:digit:]*[:alpha:]
+ls -pma
