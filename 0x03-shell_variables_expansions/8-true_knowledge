@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv $(128 +"TRUEKNOWLEDGE")
+printenv $(128 +TRUEKNOWLEDGE) 
